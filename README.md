@@ -18,12 +18,12 @@ $ gvm use go1.5 --default
 ```
 install InfluxDb
 ``` bash
-$ sudo dpkg -i ./package/influxdb-armhf/influxdb_0.9.6_armhf.deb
+$ sudo dpkg -i ./package/influxdb_0.9.6_armhf.deb
 $ sudo service influxdb start
 ```
 install Grafana
 ``` bash
-$ sudo dpkg -i ./package/grafana-armhf/grafana_3.0.0-pre1_armhf.deb
+$ sudo dpkg -i ./package/grafana_3.0.0_armhf.deb
 $ sudo service grafana-server start
 ```
 and browse localhost:3000 to access Grafana UI
