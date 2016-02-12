@@ -3,7 +3,7 @@
 A DIY (Do It Yourself) domotic box based on : Raspberry Pi 2, InfluxDb, Grafana, MQTT and Node-Red
 
 ### Installation
-Thanks to InfluxDB, Telegraf and Grafana on a Raspberry Pi 2[http://www.aymerick.com/2015/10/07/influxdb-telegraf-grafana-raspberry-pi.html]
+Thanks to [InfluxDB, Telegraf and Grafana on a Raspberry Pi 2](http://www.aymerick.com/2015/10/07/influxdb-telegraf-grafana-raspberry-pi.html)
 
 install go 1.5 using Go Version Manager
 ``` bash
